@@ -49,5 +49,8 @@ roslaunch warehouse_simulation warehouse_simulation.launch
 4- run this code in the terminal :
 
 
+$ rosrun map_server map_saver -f ~/map
+
+
 
 
