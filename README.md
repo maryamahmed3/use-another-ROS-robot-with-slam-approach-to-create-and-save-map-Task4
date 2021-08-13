@@ -32,7 +32,7 @@ roslaunch warehouse_simulation warehouse_simulation.launch
 
 
 
-
+![FEF4290C-D3C6-498C-8F24-F8083BF1CA9B_1_105_c](https://user-images.githubusercontent.com/86611989/129288268-98d78fc1-a372-427e-9ba5-22c0d04c9474.jpeg)
 
 
 
